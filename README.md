@@ -1,5 +1,5 @@
 # Clothing-store
-![Интернет магазин](https://sun9-3.userapi.com/impg/zji6qv3LXRfDhmtwqX4jB2X1L6Od5GVz4hakrQ/91pprAbmdJ8.jpg?size=1756x1618&quality=96&sign=be0ceba50daa3757d9df1a7d6c68c802&type=album)
+![Интернет магазин](https://psv4.userapi.com/c909618/u284227467/docs/d43/f63142ca187a/Snimok_ekrana_2023-06-30_v_07_08_58.png?extra=WB0DuzKz_sKCrNjsG0FWoZ-WaIg9gVWsUOdbh7iT4VhK3y0oaaFeDPzYwoiySnOLGEqknq2FDAphxccdgMwHx40ig90cFwDOQVUSq5S1_wCz5SBvuT8sFQjN3lQZJEbMHaFpKS4qIqq0SOG-aWMP5qUj)
 ## Назначение 
 Создаваемый интернет-магазин предназначен для помощи в организации продаж готовой мужской летней одежды.
 Программа будет использоваться тремя группами пользователей: посетитель, пользователь, администратор.
